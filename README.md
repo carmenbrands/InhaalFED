@@ -234,7 +234,6 @@ goed opweg afbeeldingen er nog inzetten en de code doornemen voor mondeling wat 
   3. Goed dat het verborgen menu geskipt wordt en dat de tabtoets niet verdwijnt in het menu
   4. Netjes aria-labels toegepast op punten waar het nodig is
 
-  <img src="readme-images/test2menu.jpeg" width="375px" alt="test menu">
 
   Hier een omschrijving van hoe het opgelost kan worden
   1. Aria-label tekst aanpassen naar "sluit menu"
