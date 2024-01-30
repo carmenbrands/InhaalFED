@@ -6,7 +6,7 @@ body.antiScroll {
 }
 
 
-/* black friday */
+/*sales*/
 main section:first-of-type a img {
 	width:100%;
 
@@ -49,7 +49,7 @@ main section:first-of-type a img {
 	flex-basis:calc(100%/3.5);
 	flex-shrink:0;
 
-	max-width:7em;
+	max-width:10em;
 
 	scroll-snap-align:center;
 
